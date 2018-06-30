@@ -20,11 +20,11 @@ The Prediction has three main steps:
 
 Result
 ------
-# As per ELO probality calculation
-Winner : Brazil
-Ruuner-up : Spain
-Third Place: France
-Fourth Place: England
+As per ELO probality calculation
+1) Winner : Brazil
+2) Ruuner-up : Spain
+3) Third Place: France
+4) Fourth Place: England
 
 Acknowledgements
 ----------------
