@@ -16,6 +16,15 @@ The Prediction has three main steps:
 1) Calculate the elo rating for each match and create a dataset.
 2) Use the updated elo to calculate the probablities of winning the world cup 2018.
 3) Simulate the tournament from Knockout Stage to Final using the probablity.
+4) We have similated the probalities with k=30,50,100,200 and got the below result as the final prediction
+
+Result
+------
+# As per ELO probality calculation
+Winner : Brazil
+Ruuner-up : Spain
+Third Place: France
+Fourth Place: England
 
 Acknowledgements
 ----------------
