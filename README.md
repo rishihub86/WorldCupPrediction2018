@@ -7,11 +7,11 @@ This prediction model has been created for Upgrad Fifa World Cup 2018, we might 
 Data Collection
 ---------------
 I have only use the amazing kaggle dataset International football results from-1872 to 2017. (Ref :: https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/home)
-It is a huge collection of data on matches spanning more than a century of international soccer games. Thanks to everyone how put this together.
+It is a huge collection of data on matches spanning more than a century of international soccer games. Thanks to everyone who put this together. This is an open source data set.
 
 Methodology Used
 ----------------
-The Prediction has three main steps:
+The Prediction has four main steps:
 
 1) Calculate the elo rating for each match and create a dataset.
 2) Use the updated elo to calculate the probablities of winning the world cup 2018.
